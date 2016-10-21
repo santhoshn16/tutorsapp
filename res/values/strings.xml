@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">project</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_tsignup">Tsignup</string>
+    <string name="title_activity_tlogin">Tlogin</string>
+    <string name="title_activity_plogin">Plogin</string>
+    <string name="title_activity_parents">Parents</string>
+    <string name="title_activity_psignup">Psignup</string>
+    <string name="title_activity_ptutor">Ptutor</string>
+
+</resources>
